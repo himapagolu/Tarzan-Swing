@@ -1,0 +1,13 @@
+# Compiled programs (anyone can rebuild them with `make`)
+Tarzan-Swing-main/TarzanSwing
+Tarzan-Swing-main/a.out
+*.o
+*.out
+
+# Leftover files from the VS Code Code Runner extension
+tempCodeRunnerFile*
+
+# macOS / editor files
+.DS_Store
+.vscode/
+.idea/
